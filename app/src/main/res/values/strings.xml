@@ -1,0 +1,18 @@
+<resources>
+    <string name="fitnessapp">demo</string>
+    <string name="traning_nutrition"><![CDATA[Traning & nutrition]]></string>
+    <string name="training_nutrition"><![CDATA[Training & Nutrition]]></string>
+
+    <string-array name="activity_items">
+        <item>Weekly</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+
+</resources>

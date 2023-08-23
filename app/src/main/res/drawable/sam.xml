@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <stroke android:width="0.0dp"  /> <!-- Border color and width -->
+    <corners android:radius="10dp" /> <!-- Corner radius to create a rounded rectangle effect -->
+    <size android:height="150dp" />
+    <size android:width="102dp" />
+</shape>

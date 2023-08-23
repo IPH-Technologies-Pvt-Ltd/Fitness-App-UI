@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="hex">#fdf1fb</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="sau">#ebf9fc</color>
+    <color name="sa">#f4f6f6</color>
+    <color name="s">#e2f4e1</color>
+    <color name="endcolorgradient">#e8a564</color>
+    <color name="blue">#0000FF</color>
+</resources>
+
+
