@@ -1,5 +1,7 @@
 # Fitness App 
 
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
 ## Description
 
 This Fitness app  contains line chart real date time picker and semi circular graph to show the percentage of calories.
