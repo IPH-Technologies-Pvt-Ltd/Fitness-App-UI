@@ -1,6 +1,7 @@
 # Fitness_App_UI
 
-![App Logo](app_logo.png) <!-- If applicable, replace with your app's logo -->
+![App Logo](![images (2)](https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/130062628/657bb083-9bb2-45f6-b710-5dddf088d9fb)
+) <!-- If applicable, replace with your app's logo -->
 
 ## Description
 
