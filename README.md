@@ -63,7 +63,7 @@ Feel free to update the content as per your specific app's details.
  
 <img src='https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/126752734/5ad8daff-c574-49ef-8531-a9ea03410cc6'
   width="300" 
-     height="600"
+     height="650"
   />
 
 
