@@ -50,16 +50,12 @@ List your app's main features and functionalities. You can also include future f
 ## License
 This project is licensed under the MIT License.
 ## Acknowledgments
-- [Flutter](#installation)
-- [Firebase](#usage)
-- [Stripe](#features)
-- [Contributing](#contributing)
-- [License](#license)
-**** - UI framework used for building the app.
-**** - Backend services for user authentication and data storage.
-**** - Payment gateway integration.
+Technology Used.
+- [Kotlin](#Kotlin) 
+
+
 ## Contact
-For any inquiries or support, please contact [email protected]
+For any inquiries or support, please contact [info@iphtechnologies.com]
 
 Feel free to update the content as per your specific app's details.
 
