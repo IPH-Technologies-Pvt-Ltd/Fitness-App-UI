@@ -51,12 +51,13 @@ List your app's main features and functionalities. You can also include future f
 This project is licensed under the MIT License.
 ## Acknowledgments
 Technology Used.
-- [Kotlin](#Kotlin) 
+- [Kotlin](#Kotlin)
 
 
 ## Contact
 For any inquiries or support, please contact [info@iphtechnologies.com]
 
 Feel free to update the content as per your specific app's details.
-
+## Output
+![fitness_app](https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/130062628/8e1814e5-12ca-4274-976a-3f77e321533a)
 
