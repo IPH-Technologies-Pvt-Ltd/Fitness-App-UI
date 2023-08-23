@@ -50,9 +50,14 @@ List your app's main features and functionalities. You can also include future f
 ## License
 This project is licensed under the MIT License.
 ## Acknowledgments
-**Flutter** - UI framework used for building the app.
-**Firebase** - Backend services for user authentication and data storage.
-**Stripe** - Payment gateway integration.
+- [Flutter](#installation)
+- [Firebase](#usage)
+- [Stripe](#features)
+- [Contributing](#contributing)
+- [License](#license)
+**** - UI framework used for building the app.
+**** - Backend services for user authentication and data storage.
+**** - Payment gateway integration.
 ## Contact
 For any inquiries or support, please contact [email protected]
 
