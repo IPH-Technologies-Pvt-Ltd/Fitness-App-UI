@@ -61,8 +61,10 @@ For any inquiries or support, please contact [info@iphtechnologies.com]
 Feel free to update the content as per your specific app's details.
 ## Output
  
-<img src='https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/130062628/8e1814e5-12ca-4274-976a-3f77e321533a'
+<img src='https://github.com/IPH-Technologies-Pvt-Ltd/Fitness_App_UI/assets/126752734/5ad8daff-c574-49ef-8531-a9ea03410cc6'
   width="300" 
      height="600"
   />
+
+
 
